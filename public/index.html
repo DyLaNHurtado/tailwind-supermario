@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="css/styles.css" />
+    <title>Mario Website</title>
+  </head>
+  <body>
+    <div class="xsm:w-full w-[1920px] mx-auto">
+      <nav
+        class="bg-gray-800 flex justify-between lg:justify-start items-center"
+      >
+        <div class="logo p-2 w-1/6">
+          <img src="./img/logo.png" width="100" alt="Logo" />
+        </div>
+        <div class="links lg:block hidden w-1/6 md:w-4/6">
+          <ul class="menu">
+            <li>
+              <a href="#" class="link">Home</a>
+            </li>
+            <li>
+              <a href="#" class="link">Play Together</a>
+            </li>
+            <li>
+              <a href="#" class="link">Explore</a>
+            </li>
+            <li>
+              <a
+                href="#"
+                class="border-4 border-yellow-400 text-white font-bold rounded-full p-2 hover:bg-gray-100 hover:text-black transition duration-500"
+                >Bowser Fury</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="rounded-full bg-red-500 text-white font-bold px-4 py-3 hover:text-gray-900 hover:bg-gray-100 transition duration-500"
+                >Buy now</a
+              >
+            </li>
+          </ul>
+        </div>
+
+        <div class="block lg:hidden w-1/6 lg:w-4/6">
+          <a href="#" id="mobile-menu" class="link">Menu</a>
+          <ul
+            id="mobile-links"
+            class="hidden w-full absolute z-50 left-0 text-center bg-gray-800"
+          >
+            <li>
+              <a href="#" class="link">Home</a>
+            </li>
+            <li>
+              <a href="#" class="link">Play Together</a>
+            </li>
+            <li>
+              <a href="#" class="link">Explore</a>
+            </li>
+            <li>
+              <a
+                href="#"
+                class="my-4 inline-block border-4 border-yellow-400 text-white font-bold rounded-full p-2 hover:bg-gray-100 hover:text-black transition duration-500"
+                >Bowser Fury</a
+              >
+            </li>
+            <li>
+              <a
+                href="#"
+                class="my-4 inline-block rounded-full bg-red-500 text-white font-bold px-4 py-3 hover:text-gray-900 hover:bg-gray-100 transition duration-500"
+                >Buy now</a
+              >
+            </li>
+          </ul>
+        </div>
+      </nav>
+      <section class="header">
+        <img src="./img/hero.jpg" />
+      </section>
+
+      <section>
+        <div class="bg-wave-pattern bg-repeat-x h-6 relative -top-2"></div>
+        <div class="bg-pattern-white-dots text-center p-4 flex md:flex-row flex-col gap-3 justify-center">
+
+          <a href="#" class="inline-block py-3 px-16 bg-black text-white font-bold border-transparent border-8 text-2xl rounded-3xl hover:border-gray-200 hover:bg-gray-100 transition duration-200 hover:text-black" >Buy Now</a>
+          <a href="#" class="inline-block py-3 px-16 bg-red-500 text-white font-bold border-transparent border-8 text-2xl rounded-3xl hover:border-gray-200 hover:bg-gray-100 transition duration-200 hover:text-black">Watch the Trailer</a>
+        </div>
+        <div class="bg-wave-pattern bg-repeat h-6 relative top-3"></div>
+      </section>
+
+      <section class="bg-red-500 h-32">
+
+      </section>
+    </div>
+    <script src="./app.js"></script>
+  </body>
+</html>

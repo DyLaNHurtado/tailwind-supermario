@@ -38,7 +38,7 @@ It is an website made with TailwindCss. With Super Mario 3DWorlds aesthetics.
 </p>
 
 <p align="center"> 
- <a href="https://supermario3dworld.nintendo.com/es/" target="_blank" ><img src="https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/coin.gif" height="100px"></a></p>
+ <a href="https://supermario3dworld.nintendo.com/es/" target="_blank" >sad<img src="https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/coin.gif"  height="100px"></a></p>
 
 
 

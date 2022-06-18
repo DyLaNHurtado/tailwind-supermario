@@ -8,7 +8,7 @@ It is an website made with TailwindCss. With Super Mario 3DWorlds aesthetics.
   </p>
 <p>
   <img src="https://laravelnews.imgix.net/images/tailwindcss.png?ixlib=php-3.3.1" width="45%" height="250px" >
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp &nbsp&nbsp&nbsp&nbsp
   <img src="https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/character-l.png"  width="20%" >
   <img src="https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/logo.png" height="100px">
 </p>

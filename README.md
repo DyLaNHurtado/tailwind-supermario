@@ -36,8 +36,11 @@ It is an website made with TailwindCss. With Super Mario 3DWorlds aesthetics.
 <p align="center">
   Click on coin to go the official page
  
- [![coin](https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/coin.gif)](https://supermario3dworld.nintendo.com/es/)
+ <a href="https://supermario3dworld.nintendo.com/es/" target="_blank" >
  
+ <img src="https://raw.githubusercontent.com/DyLaNHurtado/tailwind-supermario/master/public/img/coin.gif">
+ 
+ </a>
  
 </p>
 
